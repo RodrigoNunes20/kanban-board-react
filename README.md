@@ -2,7 +2,7 @@
 
 Quadro Kanban com colunas To do / Doing / Done, criação de tarefas e drag & drop.
 
-🔗 **Deploy online:** _adicione aqui o link do Vercel_
+🔗 **Deploy online: https://kanban-board-react-virid.vercel.app/
 
 ## Tecnologias
 React, Vite, TailwindCSS, @hello-pangea/dnd
